@@ -1,0 +1,5 @@
+Api used for news
+https://newsapi.org/
+
+Alan ( for listening and speaking i.e MI )
+https://alan.app/
